@@ -1,4 +1,5 @@
-💫 Hi 👋, I'm Samragyi Sharma  
+## 💫 Hi 👋, I'm **Samragyi Sharma**
+
 An aspiring Software Engineer from India, passionate about writing clean code, solving real-world problems, and blending tech with creativity.  
 Currently leveling up my skills and building meaningful projects as a proud JECRC University student. 🚀
 
